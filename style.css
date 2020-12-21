@@ -74,6 +74,7 @@ background-color:#8cc640c5;
 #recipe img {
     display: block;
     margin: 0 auto;
+    width: 100%;
     border: .5em solid transparent;
     padding: .2em;
     border-image: url('img/marco.svg') 76 round;
